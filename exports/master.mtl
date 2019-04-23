@@ -806,9 +806,3 @@ Kd 0.592157 0.372549 0.152941
 Ks 0.330000 0.330000 0.330000
 map_Kd master/_Wood_Floor_Dark_.jpg
 
-newmtl Wood_Board_Cork
-Ka 0.000000 0.000000 0.000000
-Kd 0.843137 0.788235 0.450980
-Ks 0.330000 0.330000 0.330000
-map_Kd master/Wood_Board_Cork.jpg
-
