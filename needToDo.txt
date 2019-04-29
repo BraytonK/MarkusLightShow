@@ -1,0 +1,3 @@
+fix side of house psots and evenly space
+add a new plane to the tree
+fix spacing between stairs and house door
