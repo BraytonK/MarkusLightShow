@@ -147,8 +147,9 @@ Kd 0.486275 0.407843 0.345098
 Ks 0.330000 0.330000 0.330000
 map_Kd master/_Granite_Brown_.jpg
 
-newmtl _auto_
+newmtl _Wood_Cherry_Original_
 Ka 0.000000 0.000000 0.000000
-Kd 0.470588 0.274510 0.145098
+Kd 0.588235 0.333333 0.156863
 Ks 0.330000 0.330000 0.330000
+map_Kd master/_Wood_Cherry_Original_.jpg
 

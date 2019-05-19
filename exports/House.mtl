@@ -1,0 +1,63 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Mirror_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.725490 0.725490
+Ks 0.330000 0.330000 0.330000
+map_Kd House/Mirror_01.jpg
+
+newmtl Wood_Floor
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.411765 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd House/Wood_Floor.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Wood_Veneer_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.274510 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd House/Wood_Veneer_01.jpg
+
+newmtl Wood_Floor_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.690196 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd House/Wood_Floor_Light.jpg
+
+newmtl Roofing_Shingles_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.498039 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd House/Roofing_Shingles_Multi.jpg
+
+newmtl Formica_Beige
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.733333 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd House/Formica_Beige.jpg
+
+newmtl Wood_OSB
+Ka 0.000000 0.000000 0.000000
+Kd 0.941176 0.764706 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd House/Wood_OSB.jpg
+
+newmtl Granite_Brown
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.407843 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd House/Granite_Brown.jpg
+
+newmtl Wood_Lumber_ButtJoined
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.596078 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd House/Wood_Lumber_ButtJoined.jpg
+
